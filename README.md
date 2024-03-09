@@ -26,3 +26,4 @@ PrintArray
 
 * Пункт 2
 ### Создана блок схема программы ![block diagram]( Final-control-work.jpg)
+### WEB ссылка на блок-схему [https://drive.google.com/file/d/13coel_E2mQazPJZpqaDUwEM_lqVw6y4N/view?usp=sharing]
